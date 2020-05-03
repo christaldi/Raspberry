@@ -1,0 +1,12 @@
+{
+    "name": "Starter",
+    "description": "Starter Project with Node-Red",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_node.json",
+            "credentialsFile": "flows_node_cred.json"
+        }
+    }
+}
